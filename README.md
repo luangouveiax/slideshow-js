@@ -1,0 +1,1 @@
+Exercício de criação de um slideshow para o curso de JavaScript da B7Web
